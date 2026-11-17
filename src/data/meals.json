@@ -1,0 +1,322 @@
+[
+  {
+    "id": "m1",
+    "sellerId": "s1",
+    "name": "Aloo Paratha with Curd & Pickle",
+    "description": "Two stuffed, ghee-crisp parathas with fresh curd, butter and homemade mango pickle.",
+    "category": "Breakfast",
+    "price": 80,
+    "quantity": 12,
+    "veg": true,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 20,
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m2",
+    "sellerId": "s2",
+    "name": "Masala Dosa with Sambar",
+    "description": "Paper-thin crisp dosa, spiced potato filling, coconut chutney and piping-hot sambar.",
+    "category": "Breakfast",
+    "price": 90,
+    "quantity": 15,
+    "veg": true,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 20,
+    "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m3",
+    "sellerId": "s2",
+    "name": "Idli Sambar (4 pcs)",
+    "description": "Soft steamed idlis with sambar and two chutneys. Light, filling, easy on the stomach.",
+    "category": "Breakfast",
+    "price": 70,
+    "quantity": 20,
+    "veg": true,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 15,
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m4",
+    "sellerId": "s4",
+    "name": "Kanda Poha with Sev",
+    "description": "Maharashtrian-style poha with peanuts, curry leaves, lemon and crunchy sev.",
+    "category": "Breakfast",
+    "price": 60,
+    "quantity": 10,
+    "veg": true,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 15,
+    "image": "https://images.unsplash.com/photo-1493770348161-369560ae357d?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m5",
+    "sellerId": "s1",
+    "name": "Rajma Chawal Bowl",
+    "description": "Slow-simmered kidney beans in a tomato-onion gravy over steamed basmati rice.",
+    "category": "Lunch",
+    "price": 120,
+    "quantity": 14,
+    "veg": true,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 25,
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m6",
+    "sellerId": "s1",
+    "name": "Home-style Veg Thali",
+    "description": "Dal, seasonal sabzi, 3 rotis, rice, salad and a sweet. A complete meal.",
+    "category": "Lunch",
+    "price": 150,
+    "quantity": 10,
+    "veg": true,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 25,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m7",
+    "sellerId": "s3",
+    "name": "Chicken Dum Biryani",
+    "description": "Fragrant basmati layered with tender marinated chicken, sealed and slow cooked. Served with raita.",
+    "category": "Lunch",
+    "price": 220,
+    "quantity": 8,
+    "veg": false,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 30,
+    "image": "https://images.unsplash.com/photo-1630383249896-424e482df921?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m8",
+    "sellerId": "s2",
+    "name": "Curd Rice & Lemon Rice Combo",
+    "description": "Cooling curd rice with pomegranate and tangy lemon rice with peanuts. Pickle on the side.",
+    "category": "Lunch",
+    "price": 110,
+    "quantity": 12,
+    "veg": true,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 20,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m9",
+    "sellerId": "s1",
+    "name": "Dal Makhani with Jeera Rice",
+    "description": "Black lentils simmered overnight with cream and butter, served with jeera rice.",
+    "category": "Dinner",
+    "price": 140,
+    "quantity": 10,
+    "veg": true,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 25,
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m10",
+    "sellerId": "s3",
+    "name": "Butter Chicken with 2 Rotis",
+    "description": "Smoky chicken in a velvety tomato-butter gravy with two fresh tandoor-style rotis.",
+    "category": "Dinner",
+    "price": 240,
+    "quantity": 6,
+    "veg": false,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 30,
+    "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m11",
+    "sellerId": "s3",
+    "name": "Egg Curry with Rice",
+    "description": "Home-style egg curry in an onion-tomato masala, served with steamed rice.",
+    "category": "Dinner",
+    "price": 150,
+    "quantity": 9,
+    "veg": false,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": false
+    },
+    "deliveryCharge": 0,
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m12",
+    "sellerId": "s4",
+    "name": "Masala Khichdi with Ghee",
+    "description": "Comforting moong dal khichdi tempered with cumin and finished with a spoon of ghee.",
+    "category": "Dinner",
+    "price": 100,
+    "quantity": 8,
+    "veg": true,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 15,
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m13",
+    "sellerId": "s1",
+    "name": "Punjabi Samosa (2 pcs)",
+    "description": "Flaky pastry stuffed with spiced potatoes and peas, served with mint and tamarind chutney.",
+    "category": "Snacks",
+    "price": 40,
+    "quantity": 24,
+    "veg": true,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": false
+    },
+    "deliveryCharge": 0,
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m14",
+    "sellerId": "s4",
+    "name": "Vada Pav (2 pcs)",
+    "description": "Mumbai-style batata vada in a soft pav with garlic chutney and fried green chilli.",
+    "category": "Snacks",
+    "price": 50,
+    "quantity": 16,
+    "veg": true,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 15,
+    "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m15",
+    "sellerId": "s3",
+    "name": "Chicken Seekh Kebab (4 pcs)",
+    "description": "Juicy minced-chicken kebabs grilled over charcoal, with mint chutney and onion rings.",
+    "category": "Snacks",
+    "price": 180,
+    "quantity": 10,
+    "veg": false,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 30,
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "m16",
+    "sellerId": "s2",
+    "name": "Medu Vada (3 pcs)",
+    "description": "Crisp-outside, fluffy-inside urad dal vadas with coconut chutney and sambar.",
+    "category": "Snacks",
+    "price": 60,
+    "quantity": 18,
+    "veg": true,
+    "available": true,
+    "soldOut": false,
+    "hiddenByAdmin": false,
+    "fulfilment": {
+      "pickup": true,
+      "delivery": true
+    },
+    "deliveryCharge": 15,
+    "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=70",
+    "createdAt": "2026-11-10T08:00:00.000Z"
+  }
+]

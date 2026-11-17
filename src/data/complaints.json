@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c1",
+    "orderId": "RB-1002",
+    "customerId": "u_c2",
+    "customerName": "Riya Singh",
+    "sellerId": "s2",
+    "subject": "Delivery was late",
+    "message": "Order arrived about 25 minutes later than promised.",
+    "status": "open",
+    "response": "",
+    "createdAt": "2026-11-11T11:10:00.000Z"
+  }
+]

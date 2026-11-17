@@ -1,0 +1,160 @@
+[
+  {
+    "id": "RB-1001",
+    "customerId": "u_c1",
+    "customerName": "Aarav Mehta",
+    "customerPhone": "9811111111",
+    "sellerId": "s1",
+    "items": [
+      {
+        "mealId": "m5",
+        "name": "Rajma Chawal Bowl",
+        "price": 120,
+        "qty": 2,
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=70"
+      },
+      {
+        "mealId": "m13",
+        "name": "Punjabi Samosa (2 pcs)",
+        "price": 40,
+        "qty": 2,
+        "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=70"
+      }
+    ],
+    "subtotal": 320,
+    "deliveryCharge": 0,
+    "commission": 32,
+    "sellerEarnings": 288,
+    "total": 320,
+    "fulfilment": "pickup",
+    "address": "",
+    "note": "",
+    "payment": "Cash on Pickup",
+    "status": "Completed",
+    "createdAt": "2026-11-10T12:30:00.000Z",
+    "history": [
+      {
+        "status": "Pending",
+        "at": "2026-11-10T12:30:00.000Z"
+      },
+      {
+        "status": "Completed",
+        "at": "2026-11-10T12:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "RB-1002",
+    "customerId": "u_c2",
+    "customerName": "Riya Singh",
+    "customerPhone": "9822222222",
+    "sellerId": "s2",
+    "items": [
+      {
+        "mealId": "m2",
+        "name": "Masala Dosa with Sambar",
+        "price": 90,
+        "qty": 1,
+        "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=70"
+      },
+      {
+        "mealId": "m3",
+        "name": "Idli Sambar (4 pcs)",
+        "price": 70,
+        "qty": 2,
+        "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=800&q=70"
+      }
+    ],
+    "subtotal": 230,
+    "deliveryCharge": 20,
+    "commission": 23,
+    "sellerEarnings": 227,
+    "total": 250,
+    "fulfilment": "delivery",
+    "address": "B-42, Sector 14, Gurugram",
+    "note": "",
+    "payment": "Cash on Delivery",
+    "status": "Completed",
+    "createdAt": "2026-11-11T08:15:00.000Z",
+    "history": [
+      {
+        "status": "Pending",
+        "at": "2026-11-11T08:15:00.000Z"
+      },
+      {
+        "status": "Completed",
+        "at": "2026-11-11T08:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "RB-1003",
+    "customerId": "u_c1",
+    "customerName": "Aarav Mehta",
+    "customerPhone": "9811111111",
+    "sellerId": "s3",
+    "items": [
+      {
+        "mealId": "m7",
+        "name": "Chicken Dum Biryani",
+        "price": 220,
+        "qty": 1,
+        "image": "https://images.unsplash.com/photo-1630383249896-424e482df921?auto=format&fit=crop&w=800&q=70"
+      }
+    ],
+    "subtotal": 220,
+    "deliveryCharge": 30,
+    "commission": 22,
+    "sellerEarnings": 228,
+    "total": 250,
+    "fulfilment": "delivery",
+    "address": "Flat 5A, Sector 21, Gurugram",
+    "note": "",
+    "payment": "Cash on Delivery",
+    "status": "Preparing",
+    "createdAt": "2026-11-13T13:00:00.000Z",
+    "history": [
+      {
+        "status": "Pending",
+        "at": "2026-11-13T13:00:00.000Z"
+      },
+      {
+        "status": "Preparing",
+        "at": "2026-11-13T13:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "RB-1004",
+    "customerId": "u_c2",
+    "customerName": "Riya Singh",
+    "customerPhone": "9822222222",
+    "sellerId": "s1",
+    "items": [
+      {
+        "mealId": "m9",
+        "name": "Dal Makhani with Jeera Rice",
+        "price": 140,
+        "qty": 1,
+        "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=70"
+      }
+    ],
+    "subtotal": 140,
+    "deliveryCharge": 0,
+    "commission": 14,
+    "sellerEarnings": 126,
+    "total": 140,
+    "fulfilment": "pickup",
+    "address": "",
+    "note": "",
+    "payment": "Cash on Pickup",
+    "status": "Pending",
+    "createdAt": "2026-11-14T19:00:00.000Z",
+    "history": [
+      {
+        "status": "Pending",
+        "at": "2026-11-14T19:00:00.000Z"
+      }
+    ]
+  }
+]

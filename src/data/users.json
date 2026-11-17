@@ -1,0 +1,79 @@
+[
+  {
+    "id": "u_admin",
+    "role": "admin",
+    "name": "Demo Admin",
+    "email": "admin@rasoibox.demo",
+    "phone": "9000000000",
+    "password": "admin123",
+    "city": "Gurugram",
+    "locality": "Sector 14",
+    "createdAt": "2026-10-10T09:00:00.000Z"
+  },
+  {
+    "id": "u_c1",
+    "role": "customer",
+    "name": "Aarav Mehta",
+    "email": "aarav@demo.com",
+    "phone": "9811111111",
+    "password": "demo123",
+    "city": "Gurugram",
+    "locality": "Sector 21",
+    "createdAt": "2026-10-11T09:00:00.000Z"
+  },
+  {
+    "id": "u_c2",
+    "role": "customer",
+    "name": "Riya Singh",
+    "email": "riya@demo.com",
+    "phone": "9822222222",
+    "password": "demo123",
+    "city": "Gurugram",
+    "locality": "Sector 14",
+    "createdAt": "2026-10-12T09:00:00.000Z"
+  },
+  {
+    "id": "u_k1",
+    "role": "cook",
+    "name": "Sunita Sharma",
+    "email": "sunita@demo.com",
+    "phone": "9833333333",
+    "password": "demo123",
+    "city": "Gurugram",
+    "locality": "Sector 21",
+    "createdAt": "2026-10-13T09:00:00.000Z"
+  },
+  {
+    "id": "u_k2",
+    "role": "cook",
+    "name": "Lakshmi Iyer",
+    "email": "lakshmi@demo.com",
+    "phone": "9844444444",
+    "password": "demo123",
+    "city": "Gurugram",
+    "locality": "Sector 14",
+    "createdAt": "2026-10-14T09:00:00.000Z"
+  },
+  {
+    "id": "u_k3",
+    "role": "cook",
+    "name": "Farhan Qureshi",
+    "email": "farhan@demo.com",
+    "phone": "9855555555",
+    "password": "demo123",
+    "city": "Gurugram",
+    "locality": "DLF Phase 3",
+    "createdAt": "2026-10-15T09:00:00.000Z"
+  },
+  {
+    "id": "u_k4",
+    "role": "cook",
+    "name": "Meera Joshi",
+    "email": "meera@demo.com",
+    "phone": "9866666666",
+    "password": "demo123",
+    "city": "Gurugram",
+    "locality": "Sector 21",
+    "createdAt": "2026-10-16T09:00:00.000Z"
+  }
+]

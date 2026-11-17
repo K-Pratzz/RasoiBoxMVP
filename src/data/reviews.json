@@ -1,0 +1,22 @@
+[
+  {
+    "id": "r1",
+    "orderId": "RB-1001",
+    "sellerId": "s1",
+    "customerId": "u_c1",
+    "customerName": "Aarav Mehta",
+    "rating": 5,
+    "comment": "Tasted exactly like home. Rajma was perfect!",
+    "createdAt": "2026-11-10T15:00:00.000Z"
+  },
+  {
+    "id": "r2",
+    "orderId": "RB-1002",
+    "sellerId": "s2",
+    "customerId": "u_c2",
+    "customerName": "Riya Singh",
+    "rating": 4,
+    "comment": "Crisp dosa and great sambar. Delivery was a bit late.",
+    "createdAt": "2026-11-11T11:00:00.000Z"
+  }
+]
